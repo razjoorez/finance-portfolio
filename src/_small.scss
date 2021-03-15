@@ -1,0 +1,28 @@
+
+
+.header {
+  background-color: $primary-colour;
+  color: $font-colour;
+  padding: 1rem $gutter;
+  h1 {
+    font-size: 2rem;
+    font-weight: $normal-weight;
+  }
+
+  h2 {
+    font-size: 1.64rem;
+    font-weight: $normal-weight;
+  }
+}
+
+body {
+  font-family: $default-font;
+  font-weight: $normal-weight;
+}
+
+.footer {
+  background-color:$secondary-colour;
+  color: $font-colour;
+}
+
+
